@@ -1,14 +1,14 @@
 # :triangular_ruler: Nome do Projeto
 
 # :memo: Índice
-* [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#chart_with_upwards_trend-proposta)
-* [:trophy: Desafio](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#trophy-desafio)
-* [:hammer_and_wrench: Tecnologias](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#hammer_and_wrench-tecnologias)
-* [:dart: Objetivo](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#dart-objetivo)
-* [:open_book: Aprendizado](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#open_book-aprendizado)
-* [:camera: Imagens do Projeto](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#camera-imagens-do-projeto)
-* [:link: Links](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#link-links)
-* [:technologist: Autor](https://github.com/rodrigobarros2802/landing-page-coca/new/master?readme=1#technologist-autor)
+* [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#chart_with_upwards_trend-proposta)
+* [:trophy: Desafio](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#trophy-desafio)
+* [:hammer_and_wrench: Tecnologias](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#hammer_and_wrench-tecnologias)
+* [:dart: Objetivo](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#dart-objetivo)
+* [:open_book: Aprendizado](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#open_book-aprendizado)
+* [:camera: Imagens do Projeto](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#camera-imagens-do-projeto)
+* [:link: Links](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#link-links)
+* [:technologist: Autor](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#technologist-autor)
 
 # :chart_with_upwards_trend: Proposta
 * Projeto proposto para melhorar e praticar CSS utilizando novas propriedades
