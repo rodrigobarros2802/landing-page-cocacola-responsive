@@ -2,7 +2,7 @@
 * Projeto Landing-Page Coca-Cola
 
 # :memo: Índice
-* [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#chart_with_upwards_trend-proposta)
+* [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/landing-page-coca#chart_with_upwards_trend-proposta)
 * [:trophy: Desafio](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#trophy-desafio)
 * [:hammer_and_wrench: Tecnologias](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#hammer_and_wrench-tecnologias)
 * [:dart: Objetivo](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#dart-objetivo)
