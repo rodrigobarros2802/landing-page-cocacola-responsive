@@ -1,4 +1,5 @@
 # :triangular_ruler: Nome do Projeto
+* Projeto Landing-Page Coca-Cola
 
 # :memo: Índice
 * [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#chart_with_upwards_trend-proposta)
