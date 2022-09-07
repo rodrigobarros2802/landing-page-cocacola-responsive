@@ -5,7 +5,7 @@
 * [:chart_with_upwards_trend: Proposta](https://github.com/rodrigobarros2802/landing-page-coca#chart_with_upwards_trend-proposta)
 * [:trophy: Desafio](https://github.com/rodrigobarros2802/landing-page-coca#trophy-desafio)
 * [:hammer_and_wrench: Tecnologias](https://github.com/rodrigobarros2802/landing-page-coca#hammer_and_wrench-tecnologias)
-* [:dart: Objetivo](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#dart-objetivo)
+* [:dart: Objetivo](https://github.com/rodrigobarros2802/landing-page-coca#dart-objetivo)
 * [:open_book: Aprendizado](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#open_book-aprendizado)
 * [:camera: Imagens do Projeto](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#camera-imagens-do-projeto)
 * [:link: Links](https://github.com/rodrigobarros2802/landing-page-coca/edit/master/README.md#link-links)
