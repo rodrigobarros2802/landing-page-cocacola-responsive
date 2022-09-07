@@ -1,4 +1,4 @@
-# :triangular_ruler: Nome do Projeto
+# :triangular_ruler: Landing-Page Coca-Cola
 * Projeto Landing-Page Coca-Cola
 
 # :memo: Índice
