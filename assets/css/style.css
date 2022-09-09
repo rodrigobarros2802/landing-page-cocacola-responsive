@@ -34,7 +34,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    clip-path: circle(50% at bottom right);
+    clip-path: circle(60% at right top);
 }
 
 header {
@@ -72,8 +72,7 @@ header .nav a {
 }
 
 header .nav a:hover {
-    color: var(--vermelho);
-    border-bottom: 2px solid var(--vermelho);
+    border-bottom: 2px solid var(--branco);
 }
 
 .texto {
