@@ -155,28 +155,17 @@ header .nav a:hover {
     filter: invert(1);
 }
 
-.imagensBox {
-    position: absolute;
-    right: 0;
-    bottom: 0;
+/* Slider */
+
+.swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
-.imagensBox img {
-    width: 180px;
-}
-
-.imagensBox .img1 {
-    transform: rotate(-15deg);
-}
-
-.imagensBox .img2 {
-    transform: rotate(5deg);
-}
-
-.imagensBox .img3 {
-    transform: rotate(15deg);
-}
-
-.imagensBox .img4 {
-    transform: rotate(-15deg);
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
 }
