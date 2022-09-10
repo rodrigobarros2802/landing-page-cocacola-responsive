@@ -75,38 +75,44 @@ header .nav a:hover {
     border-bottom: 2px solid var(--branco);
 }
 
-.texto {
-    max-width: 600px;
-    display: inline-block;
+.conteudoBox {
+    position: relative;
+    width: 100%;
+    display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.texto h2 {
-    color: var(--branco);
-    font-size: 3rem;
-}
-
-.texto p {
-    color: var(--branco);
-    font-weight: 500;
-}
-
-.texto .link-produtos {
-    display: inline-block;
-    justify-content: center;
-    align-items: center;
+.conteudoBox .textoBox {
     position: relative;
-    width: 40%;
-    bottom: -40px;
+    max-width: 600px;
+    margin-right: 20px;
+}
+
+.conteudoBox .textoBox h2 {
     color: var(--branco);
+    font-size: 3em;
+    margin-bottom: 10px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+.conteudoBox .textoBox p {
+    color: var(--branco);
+}
+
+.conteudoBox .textoBox a {
+    display: inline-block;
+    margin-top: 20px;
+    color: var(--branco);
+    padding: 8px 20px;
     text-decoration: none;
     font-weight: 500;
-    background-color: var(--vermelho);
+    background: var(--vermelho);
     border-radius: 40px;
-    padding: 10px 25px;
     transition: 0.3s ease-in-out;
     font-size: 19px;
+    letter-spacing: 1px;
 }
 
 .link-produtos:hover {
@@ -157,6 +163,17 @@ header .nav a:hover {
 
 /* Slider */
 
+.conteudoBox .imagensBox {
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudoBox .imagensBox img {
+    max-width: 150px;
+}
+
 .swiper-container {
     width: 100%;
     padding-top: 50px;
@@ -166,6 +183,12 @@ header .nav a:hover {
 .swiper-slide {
     background-position: center;
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 180px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.swiper-slide img {
+    min-height: 100%;
 }

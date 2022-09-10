@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
-    <script src="assets/js/script.js"></script>
+    <!-- <script src="assets/js/script.js"></script> -->
     <title>Landing Page - Coca-Cola</title>
 </head>
 <body>
@@ -23,10 +23,12 @@
                     </ul>
                 </nav>
         </header>
-        <div class="texto">
-            <h2>TASTE THE FEELING</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque explicabo dolore quidem reiciendis laudantium labore fuga mollitia provident, quia nesciunt, nostrum debitis ratione dolorem, consequuntur asperiores? Cum ipsum corporis reprehenderit!</p>
-            <a href="#" class="link-produtos">VIEW ALL PRODUCTS</a>
+        <div class="conteudoBox">
+            <div class="textoBox">
+                <h2>TASTE THE FEELING</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque explicabo dolore quidem reiciendis laudantium labore fuga mollitia provident, quia nesciunt, nostrum debitis ratione dolorem, consequuntur asperiores? Cum ipsum corporis reprehenderit!</p>
+                <a href="#" class="link-produtos">VIEW ALL PRODUCTS</a>
+            </div>
             <div class="imagensBox">
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
@@ -45,6 +47,25 @@
             <li><a href="#"><img src="assets/img/twitter.png" alt="twitter"></a></li>
         </ul>
     </section>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <script>
+        const swiper = new Swiper('.swiper-container', {
+        effect: 'coverflow',
+        grabCursor: true,
+        centeredSlides: false,
+        slidesPerView: 'auto',
+        coverflowEffect: {
+        rotate: 0,
+        stretch: 0,
+        depth: 200,
+        modifier: 8,
+        slideShadows: false,
+        },
+          pagination: {
+            el: '.swiper-pagination',
+          },
+          loop: true,
+    });
+    </script>
 </body>
-<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 </html>
