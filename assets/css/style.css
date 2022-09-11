@@ -48,22 +48,22 @@ header {
     padding: 50px;
 }
 
-header .nav {
+header .navigation {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-header .nav ul {
+header .navigation ul {
     display: flex;
+}
+
+header .navigation li {
+    margin-left: 50px;
     list-style: none;
 }
 
-header .nav li {
-    margin-left: 50px;
-}
-
-header .nav a {
+header .navigation a {
     text-decoration: none;
     color: var(--branco);
     font-weight: 500;
@@ -71,7 +71,7 @@ header .nav a {
     transition: 0.3s ease-in-out;
 }
 
-header .nav a:hover {
+header .navigation a:hover {
     border-bottom: 2px solid var(--branco);
 }
 
@@ -222,8 +222,28 @@ header .nav a:hover {
         height: 300px;
     }
 
-    header .nav {
+    header .navigation {
         display: none;
+    }
+
+    header .navigation.active {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        background: var(--vermelho);
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        z-index: 10;
+    }
+
+    header .navigation li a {
+        margin: 10px;
+        font-size: 1.5em;
+        font-weight: 500;
     }
 
     .toggle {
