@@ -121,12 +121,13 @@ header .nav a:hover {
 
 .logo {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     position: absolute;
-    bottom: 100px;
-    left: 150px;
-    width: 10%;
+    bottom: 20px;
+    left: 10;
+    width: 100%;
+    gap: 40px;
 }
 
 .logo ul {
@@ -191,4 +192,37 @@ header .nav a:hover {
 
 .swiper-slide img {
     max-height: 80%;
+}
+
+
+@media (max-width: 991px) {
+    header {
+        padding: 40px;
+    }
+    
+    section {
+        padding: 150px 40px;
+    }
+
+    .logo {
+        left: 40px;
+        margin-left: 40px;
+    }
+
+    .conteudoBox {
+        flex-direction: column;
+    }
+
+    .conteudoBox .textoBox,
+    .conteudoBox .imagensBox {
+        max-width: 100%;
+    }
+
+    .swiper-slide {
+        height: 300px;
+    }
+
+    header .nav {
+        display: none;
+    }
 }
