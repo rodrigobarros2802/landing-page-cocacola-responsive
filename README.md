@@ -19,6 +19,7 @@
 * Maior desafio foi conseguir usar as propriedades que nunca tinha usado antes como Transition, Translate alterando os eixos X e Y, filter alterando a cor da logo.
 
 # :hammer_and_wrench: Tecnologias
+* JavaScript  
 * HTML5
 * CSS3
 
