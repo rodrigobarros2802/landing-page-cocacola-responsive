@@ -33,7 +33,18 @@
 
 # :camera: Imagens do Projeto
 
-![Print do Projeto](assets/img/print-projeto.png)
+* **Responsive**
+
+![Responsive](assets/img/print-responsive.png)
+
+* **Print 1**
+![Print1](assets/img/print1.png)
+
+* **Print 2**
+![Print2](assets/img/print2.png)
+
+* **Print 3**
+![Print2](assets/img/print3.png)
 
 # :link: Links
 * **Link GitHub Pages** - https://rodrigobarros2802.github.io/landing-page-coca-cola-responsive/
