@@ -19,6 +19,7 @@
 * Maior desafio foi conseguir usar as propriedades que nunca tinha usado antes como Transition, Translate alterando os eixos X e Y, filter alterando a cor da logo.
 
 # :hammer_and_wrench: Tecnologias
+* JavaScript  
 * HTML5
 * CSS3
 
@@ -35,7 +36,7 @@
 ![Print do Projeto](assets/img/print-projeto.png)
 
 # :link: Links
-* **Link GitHub Pages** - https://rodrigobarros2802.github.io/landing-page-coca-responsive/
+* **Link GitHub Pages** - https://rodrigobarros2802.github.io/landing-page-coca-cola-responsive/
 
 # :technologist: Autor
 * **Repositório GitHub** - https://github.com/rodrigobarros2802/
