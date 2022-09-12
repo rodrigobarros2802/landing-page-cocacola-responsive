@@ -51,7 +51,7 @@
 ![Print2](assets/img/print3.png)
 
 # :link: Links
-* **Link GitHub Pages** - https://rodrigobarros2802.github.io/landing-page-coca-cola-responsive/
+* **Link GitHub Pages** - https://rodrigobarros2802.github.io/landing-page-cocacola-responsive/
 
 # :technologist: Autor
 * **Repositório GitHub** - https://github.com/rodrigobarros2802/
