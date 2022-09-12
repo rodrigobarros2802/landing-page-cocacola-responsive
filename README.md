@@ -31,6 +31,10 @@
 
 ![Aprendizado](assets/img/aprendizado.png)
 
+* Aprendi a utilizar o efeito Swiper onde a experiência do usuário é rolar para os lados com o mouse e o layout fica mudando as opções de coca-cola.
+
+![Aprendizado JS](assets/img/aprendizado-js.png)
+
 # :camera: Imagens do Projeto
 
 * **Responsive**
