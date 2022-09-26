@@ -220,6 +220,7 @@ header .navigation a:hover {
 
     .swiper-slide {
         height: 300px;
+        margin-bottom: 20px;
     }
 
     header .navigation {
